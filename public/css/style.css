@@ -1,0 +1,72 @@
+.un{
+    display: flex;
+    width: 100%;    
+    border: 5px solid;
+    border-color: blueviolet;
+}
+
+.deux{
+    display: flex;
+    width: 100%;
+    border: 5px solid;
+    border-color: red;
+    margin-top: 5px;
+}
+
+.trois{
+    display: flex;
+    width: 100%;
+    border: 5px solid;
+    border-color: green;
+    margin-top: 5px;
+}
+
+.quatre{
+    display: flex;
+    width: 100%;
+    border: 5px solid;
+    border-color: yellow;
+    margin-top: 5px;
+}
+
+.cinq{
+    display: flex;
+    width: 100%;
+    border: 5px solid;
+    border-color: blue;
+    margin-top: 5px;
+}
+
+
+.num{
+    width: 100px;
+    font-size: xx-large;
+    margin-left: 50px;
+    font-weight: bold;
+}
+
+.btn{
+    position: absolute;
+    right: 100px;
+    padding-top: 50px;    
+}
+
+.colorbtn0{
+    background-color: blueviolet;
+}
+
+.colorbtn{
+    background-color: red;
+}
+
+.colorbtn1{
+    background-color: green;
+}
+
+.colorbtn2{
+    background-color: yellow;
+}
+
+.colorbtn3{
+    background-color: blue;
+}
